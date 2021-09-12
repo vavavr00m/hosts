@@ -562,6 +562,9 @@ Read: [Locatarr](https://github.com/rustyshackleford36/locatarr) ([Subreddit](ht
 ##### Exam/Test/Puzzle/Course Maker/Generator
   <br /> ⬜️ [ActivePresenter Pro](https://atomisystems.com/activepresenter/) (Freemium) or [Articulate Storyline 360](https://articulate.com/360/storyline#compare) (Commercial) or   [Adobe Captivate](https://www.adobe.com/products/captivate.html) (Commercial) or [iSpring Suite](https://www.ispringsolutions.com/ispring-suite) (Freemium)
   <br /> ✅ [Cross+A](https://cross-a-plus.com/) (Commercial) / pzpr.js ([Source](https://github.com/sabo2/pzprjs/blob/master/docs/SupportedPuzzles.md)) & PUZ-PRE v3 ([Source](https://github.com/sabo2/pzprv3/blob/master/docs/en/SupportedPuzzles.md))
+  <br /> ⬜️ [Lee's Bingoh](https://www.lees-bingo.co.uk/) (Commercial)
+  <br /> ⬜️ [Stateside Bingo](https://www.lees-bingo.co.uk/) (Commercial)
+  <br /> ⬜️ [Easy Raffle](https://www.lees-bingo.co.uk/) (Commercial)
   <br /> ⬜️ [Schoolhouse Bingo Pro](https://www.schoolhousetech.com/bingo/) (Commercial)
   <br /> ⬜️ [Schoolhouse Math Resource Studio Pro](https://www.schoolhousetech.com/math/) (Commercial)
   <br /> ⬜️ [Schoolhouse Test Pro](https://www.schoolhousetech.com/test-maker/) (Commercial)
