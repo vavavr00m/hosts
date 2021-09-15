@@ -120,6 +120,8 @@ regex
 ### Chrome Extensions
 * [ClearURLS](https://clearurls.xyz/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)) ([Source](https://gitlab.com/KevinRoebert/ClearUrls))
 * [CSS Exfil Protection](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester) ([Chrome Web Store](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo)) ([Source](https://github.com/mlgualtieri/CSS-Exfil-Protection))
+* [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd/) ([Source](https://github.com/cavi-au/Consent-O-Matic)) or [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)
+* [Opt Out - send GDPR and CCPA data requests](https://chrome.google.com/webstore/detail/opt-out-send-gdpr-and-ccp/dedldhojjkgbejnmmfpmbnbihmmpfbpd) ([Source](https://github.com/your-digital-rights/yourdigitalrights.org))
 * [Decentraleyes](https://decentraleyes.org/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)) ([Source](https://git.synz.io/Synzvato/decentraleyes)) or [LocalCDN](https://www.localcdn.org/) ([Unofficial Chrome Web Store](https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd)) ([Source](https://codeberg.org/nobody/LocalCDN))
 * [Hello, Goodbye](https://hellogoodbye.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/hello-goodbye/nihpfpbibfgpgnfpbfedkdokihggapoi)) ([Source](https://github.com/bcye/Hello-Goodbye))
 * uBlock Origin ([Source](https://github.com/gorhill/uBlock))
@@ -139,11 +141,11 @@ regex
 * Web Archives ([Chrome Web Store](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)) ([Source](https://github.com/dessant/web-archives))
 * [Webpage Screenshot](https://1ce.org/1click-webpage-screenshot/overview) ([Chrome Web Store](https://chrome.google.com/webstore/detail/webpage-screenshot-entire/akgpcdalpfphjmfifkmfbpdmgdmeeaeo)) ([Source](https://github.com/1click-extensions/1click-webpage-screenshot))
 
+
+
 ### LF good FOSS alternative:
 <br /> ⬜️ [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free) 
 <br /> ⬜️ CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial) 
-<br /> ✅ ~~[I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free) or~~ [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd/) ([Source](https://github.com/cavi-au/Consent-O-Matic))
-<br /> ✅ [Opt Out - send GDPR and CCPA data requests](https://chrome.google.com/webstore/detail/opt-out-send-gdpr-and-ccp/dedldhojjkgbejnmmfpmbnbihmmpfbpd) ([Source](https://github.com/your-digital-rights/yourdigitalrights.org))
 <br /> ⬜️ LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free) 
 <br /> ⬜️ [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free) 
 <br /> ⬜️ [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free) 
