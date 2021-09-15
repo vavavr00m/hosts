@@ -142,7 +142,7 @@ regex
 ### LF good FOSS alternative:
 <br /> ⬜️ [AutoControl](https://www.autocontrol.app/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/autocontrol-shortcut-mana/lkaihdpfpifdlgoapbfocpmekbokmcfd)) (Free) 
 <br /> ⬜️ CookiesBlock ([Chrome Web Store](https://chrome.google.com/webstore/detail/cookiesblock-cookie-pop-u/ajkknbgennjgacpfbhdobipfhhikbldg)) (Free but will be Commercial) 
-<br /> ⬜️ [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free) 
+~~<br /> ✅ [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)) (Free)~~ or [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd/) ([Source](https://github.com/cavi-au/Consent-O-Matic))
 <br /> ⬜️ LockPW ([Chrome Web Store](https://chrome.google.com/webstore/detail/lockpw/kjcloihghgncbdkaafgkckbokjnehfmo)) (Free) 
 <br /> ⬜️ [Page Cache Archiver](http://addonarchiver.canalblog.com/archives/2019/12/20/37881285.html) ([Chrome Web Store](https://chrome.google.com/webstore/detail/page-cache-archiver/acnfihlpcmgkhngbcemdinfmkibhhhep)) (Free) 
 <br /> ⬜️ [Netcraft Extension](https://www.netcraft.com/apps/) ([Chrome Web Store](https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia)) (Free) 
